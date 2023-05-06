@@ -1,4 +1,12 @@
 return {
+  {
+    'rose-pine/neovim',
+    name = 'rose-pine',
+    opts = {
+      dark_variant = "moon",
+    },
+  },
+
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
